@@ -20,3 +20,31 @@
 .App-link {
   color: #09d3ac;
 }
+
+.user{
+  text-align: center;
+}
+
+.user img{
+  border-radius: 50%;
+}
+
+.followerContainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.follower{
+  width: 25%;
+  padding: 2%;
+}
+
+.follower img{
+  max-width: 100px;
+}
+
+p{
+  width: 400px;
+  margin: 0 auto;
+}
